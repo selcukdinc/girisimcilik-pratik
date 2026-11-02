@@ -33,7 +33,7 @@ export const unite5: Soru[] = [
       soru: "Endüstri analizinde hangisi beş önemli analiz unsurundan biri değildir?",
       secenekler: ["Çalışanlar", "Rakipler", "Tedarikçiler", "Müşteriler", "Dağıtım kanalı elemanları"],
       dogru: 0,
-      aciklama: "Kitabın cevap anahtarı **çalışanlar** şıkkını verir. Endüstri analizi firmanın dışındaki aktörlere (müşteriler, rakipler, tedarikçiler, kanal üyeleri, ikame ve yeni girenler) bakar; çalışanlar firmanın içindedir.",
+      aciklama: "Kitabın cevap anahtarına göre doğru cevap **çalışanlar**dır. Endüstri analizi firmanın dışındaki aktörlere (müşteriler, rakipler, tedarikçiler, kanal üyeleri, ikame ve yeni girenler) bakar; çalışanlar firmanın içindedir.",
     },
     {
       id: "u5-k05", no: 5, cikmis: 14, kavram: "u5-bes-faktor", sabit: true,
