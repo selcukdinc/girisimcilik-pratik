@@ -14,6 +14,15 @@ export interface Yenilik {
 
 export const YENILIKLER: Yenilik[] = [
   {
+    pr: 2,
+    tarih: "2026-11-02",
+    baslik: "Şık sırası ve açıklama düzeltmesi",
+    maddeler: [
+      "Bazı açıklamalar doğru cevabı \"D şıkkı\" gibi harfle anıyordu; şıklar her açılışta karıştığı için bu harf ekrandakiyle uyuşmuyordu. Artık açıklamalar doğru cevabı metniyle söylüyor.",
+      "\"Hiçbiri\" ve \"Hepsine\" şıkkı olan iki hukuk sorusunda şıklar artık kitaptaki sırada kalıyor.",
+    ],
+  },
+  {
     pr: 1,
     tarih: "2026-11-01",
     baslik: "Girişimcilik Pratik açıldı",

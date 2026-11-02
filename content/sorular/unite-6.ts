@@ -43,14 +43,14 @@ export const unite6: Soru[] = [
       aciklama: "KOBİ tanımı hukuki türe değil çalışan sayısı ve ciro/bilançoya bakar; bu yüzden **hepsi** KOBİ olabilir.",
     },
     {
-      id: "u6-k06", no: 6, kavram: "u6-kurulus",
+      id: "u6-k06", no: 6, kavram: "u6-kurulus", sabit: true,
       soru: "Tüzel kişilik hangi anda kazanılır?",
       secenekler: ["Şirket sözleşmesi imzalandığında", "Sözleşmedeki imzaların noterde tasdik edildiği anda", "Ticaret Müdürülüğüne tescil edildiği anda", "Türkiye Ticaret Sicili Gazetesinde ilan edildiği anda", "Hiçbiri"],
       dogru: 2,
       aciklama: "Kitap açıkça belirtir: **tescil ile tüzel kişilik kazanılır**.",
     },
     {
-      id: "u6-k07", no: 7, cikmis: 19, kavram: "u6-yonetim",
+      id: "u6-k07", no: 7, cikmis: 19, kavram: "u6-yonetim", sabit: true,
       soru: "Limited şirkette yönetim ve temsil yetkisi kime aittir?",
       secenekler: ["Müdüre", "Muhasebeciye", "Avukata", "Ortaklara", "Hepsine"],
       dogru: 0,
@@ -61,7 +61,7 @@ export const unite6: Soru[] = [
       soru: "Sermayenin taahhüt edilmesinden aşağıdakilerden hangisi anlaşılmaz?",
       secenekler: ["Taahütle sorumluluk sona erer", "sorumluluk miktarı taahhüt edilen miktarkadardır", "taahhüt edilenin ödenmemesi çıkma nedeni olabilir", "sermayenin tamamının taahhüt edilmesi gerekir", "maddi varlıklarla taahhüt yerine getirilebilir"],
       dogru: 3,
-      aciklama: "Kitabın cevap anahtarı **D** şıkkını verir. Asgari sermaye öngörülen hallerde taahhüdün ¼'ü peşin, kalanı üç yıl içinde ödenir.",
+      aciklama: "Kitabın cevap anahtarına göre taahhütten anlaşılmayan: \"**sermayenin tamamının taahhüt edilmesi gerekir**\". Asgari sermaye öngörülen hallerde taahhüdün ¼'ü peşin, kalanı üç yıl içinde ödenir.",
     },
     {
       id: "u6-k09", no: 9, kavram: "u6-rekabet",

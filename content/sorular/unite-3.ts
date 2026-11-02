@@ -40,7 +40,7 @@ export const unite3: Soru[] = [
       soru: "Hangisi iş fikrinin finansal olarak değerlendirilmesi ile ilgili söylenemez?",
       secenekler: ["Gelir gider tablosu geleceğe dair varsayımlardan oluşur", "Başabaş noktası gelirlerin giderlere eşit olması için gereken noktayı ifade eder", "Yatırım geri dönüş süreci, ilk yatırım tutarının ne zaman yatırılacağını ifade eder", "İlk yatırım tutarına aynı zamanda başlangıç sermayesi adı verilir.", "Yatırım geri dönüş süresi, elde edilen net kârın ilk yatırım tutarını ne zaman karşılayacağını ifade eder"],
       dogru: 3,
-      aciklama: "Kitabın cevap anahtarı **D** şıkkını verir. Gelir gider tablosu varsayımlara dayanır, başabaş noktası gelirin gideri karşıladığı noktadır, geri dönüş süresi net kârın ilk yatırımı ne zaman karşılayacağını gösterir.",
+      aciklama: "Kitabın cevap anahtarına göre söylenemeyecek ifade: \"**İlk yatırım tutarına aynı zamanda başlangıç sermayesi adı verilir**\". Gelir gider tablosu varsayımlara dayanır, başabaş noktası gelirin gideri karşıladığı noktadır, geri dönüş süresi net kârın ilk yatırımı ne zaman karşılayacağını gösterir.",
     },
     {
       id: "u3-k06", no: 6, kavram: "u3-finans",
