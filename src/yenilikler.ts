@@ -14,6 +14,14 @@ export interface Yenilik {
 
 export const YENILIKLER: Yenilik[] = [
   {
+    pr: 4,
+    tarih: "2026-11-02",
+    baslik: "Kayıt e-postaları yeniden gidiyor",
+    maddeler: [
+      "Kayıt, parola sıfırlama ve e-posta doğrulama kodları artık girisimcilikpratik@email.selcukdinc.dev adresinden geliyor. Gönderen adresi değiştiği için kod isterken hata alınıyordu.",
+    ],
+  },
+  {
     pr: 3,
     tarih: "2026-11-02",
     baslik: "Etkinlik takvimi düzeldi",
